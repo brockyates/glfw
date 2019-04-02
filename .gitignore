@@ -83,3 +83,14 @@ tests/title
 tests/vulkan
 tests/windows
 
+# Added by Brock
+
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user
+
+
